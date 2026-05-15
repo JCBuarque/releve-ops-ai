@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 BASE_DIR = Path(__file__).resolve().parent
-DATA_DIR = BASE_DIR / "dados"
+DATA_DIR = BASE_DIR / "data"
 PEDIDOS_FILE = DATA_DIR / "dados_pedidos_base_final.xlsx"
 CUSTOS_FILE = DATA_DIR / "fatura_do_cartao (Custo Variavel).csv"
 
