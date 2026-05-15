@@ -1,1 +1,5 @@
 streamlit==1.57.0
+pandas
+plotly
+openpyxl
+numpy
